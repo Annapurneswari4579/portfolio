@@ -14,9 +14,9 @@ This project is built using basic web technologies to demonstrate:
 - JavaScript for interactivity
 
 ## 📁 Project Structure
-index.html
-script.js
-style.css
+C:\Users\srava\Desktop\anu\portifolio\index.html
+C:\Users\srava\Desktop\anu\portifolio\script.js
+C:\Users\srava\Desktop\anu\portifolio\style.css
 
 ## 🎯 Features
 
@@ -34,8 +34,7 @@ style.css
 - GitHub Pages for deployment
 
 ## 📷 Screenshots
-
-first.png
+![Homepage](C:\Users\srava\Desktop\anu\first.png)
 
 ## 📬 Contact
 
