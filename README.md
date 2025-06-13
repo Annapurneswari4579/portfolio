@@ -35,8 +35,7 @@ portfolio/
 - GitHub Pages for deployment
 
 ## 📷 Screenshots
-portfolio/
-├── first.png
+![Homepage](./screenshots/first.png)
 
 ## 📬 Contact
 
