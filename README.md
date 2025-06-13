@@ -15,12 +15,12 @@ This project is built using basic web technologies to demonstrate:
 
 ## 📁 Project Structure
 
-```text
+'''text
 portfolio/
 ├── index.html
 ├── style.css
-├── script.js
-├── README.md
+├── script.js'''
+
 
 ## 🎯 Features
 
