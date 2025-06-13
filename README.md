@@ -14,10 +14,13 @@ This project is built using basic web technologies to demonstrate:
 - JavaScript for interactivity
 
 ## 📁 Project Structure
+
+```text
 portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
+├── README.md
 
 ## 🎯 Features
 
